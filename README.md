@@ -1,6 +1,6 @@
-## Hi there 👋 
-_____________________
+## Hi there 👋 Welcome to my github
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=frazierjoe)](https://github.com/frazierjoe/github-readme-stats)
 
 ### 🔭 I’m currently working on developing a personal website
 
