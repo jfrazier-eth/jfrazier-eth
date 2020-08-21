@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my github
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=frazierjoe&count_private=true&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=frazierjoe&count_private=true&show_icons=true&theme=vue)
 
 ### 🔭 I’m currently working on developing a personal website. Watch it come alive [here](https://frazierjoe.github.io/#/)
 
