@@ -1,0 +1,9 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+
+@import "./Colors.scss";
+
+$enable-gradients: true;
+
+
+@import "~bootstrap/scss/bootstrap";
