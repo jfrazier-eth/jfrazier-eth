@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my github
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=frazierjoe&count_private=true&show_icons=false&theme=vue&hide=issues)
+![My github stats](https://github-readme-stats.vercel.app/api?username=frazierjoe&count_private=true&show_icons=false&theme=vue&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazierjoe&layout=compact)
 
 ### 🔭 I’m currently working on developing a personal website. Watch it come alive [here](https://frazierjoe.github.io/#/)
 
@@ -16,4 +16,4 @@
 
 ### ⚡ Fun fact: Avid cyclist, checkout my [Strava](https://www.strava.com/athletes/18590530) 🚴
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazierjoe&layout=compact)
+
