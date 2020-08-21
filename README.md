@@ -2,7 +2,7 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=frazierjoe&count_private=true&show_icons=true&theme=radical)](https://github.com/frazierjoe/github-readme-stats)
 
-### 🔭 I’m currently working on developing a personal website
+### 🔭 I’m currently working on developing a personal website. Watch it come alive [here](https://frazierjoe.github.io/#/)
 
 ### 🌱 I’m currently learning about the current pandemic
 
