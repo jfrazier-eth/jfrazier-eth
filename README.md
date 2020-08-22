@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on developing a personal website. Watch it come alive [here](https://frazierjoe.github.io/#/)
 
-### 🌱 I’m currently learning about the current pandemic
+### 🌱 I’m currently learning about COVID-19 via a course called *The Pandemic: Science and Society*.
 
 ### 💻 I’m looking to collaborate on a cycling trainer app similar to [TrainerRoad](TrainerRoad.com).
 
@@ -14,6 +14,4 @@
 
 ### 😄 Pronouns: He/Him/His
 
-### ⚡ Fun fact: Avid cyclist, checkout my [Strava](https://www.strava.com/athletes/18590530) 🚴
-
-
+### ⚡ Fun fact: In my free time I enjoy cycling, checkout my [Strava](https://www.strava.com/athletes/18590530) 🚴
