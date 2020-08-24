@@ -22,14 +22,15 @@ $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
 
-$primary:       $blue;
+$primary:       rgb(13, 197, 160);;
 $secondary:     $gray-600;
 $success:       $green;
 $info:          $cyan;
 $warning:       $yellow;
 $danger:        $red;
-$light:         $gray-100;
-$dark:          $gray-800;
+$light:         rgb(246, 246, 246);
+$dark:          #32312f;
+$text:          rgb(50, 49, 47);
 
 $theme-colors: ();
 $theme-colors: map-merge(
@@ -41,7 +42,9 @@ $theme-colors: map-merge(
     "warning":    $warning,
     "danger":     $danger,
     "light":      $light,
-    "dark":       $dark
+    "dark":       $dark,
+    "text":       $text,
+    "white":      $white
   ),
   $theme-colors
 );
