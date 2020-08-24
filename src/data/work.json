@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Software Developer",
+        "company": "Ignite Bot",
+        "companyDescription": "Ignite Bot is a progressive sneaker bot company focused on providing flagship software to users to users in the designer clothing industry.",
+        "startDate": "August 2020",
+        "endDate": "Currently Employed",
+        "technologies": "Typescript, React, Redux, Electron, Node.js, Sass, Webpack, GitLab, Trello, Discord",
+        "role": "Hired to do a full rewrite of Ignite's beta version desktop app from a mangling of JavaScript, JQuery, React, HTML and CSS to a typed, developer friendly, adaptable, extensible and reusable code base.",
+        "benefits": "Significantly increased code quality"
+
+    },{
+        "title": "Freelance Software Developer",
+        "company": "",
+        "companyDescription": "",
+        "startDate": "May 2020",
+        "endDate": "August 2020",
+        "technologies": "Typescript, React, Redux, Electron, Node.js, Sass, Webpack, Trello, Discord",
+        "role": "Worked both as an individual and group on web technology based software for companies in the sneaker botting industry.",
+        "benefits": "Learned to communicate with clients, estimate development timelines, provide customer service, and work alongside developers from around the world."
+    },
+    {
+        "title": "Bicycle Assembly Mechanic",
+        "company": "The Bike Rack Omaha",
+        "companyDescription": "",
+        "startDate": "May 2016",
+        "endDate": "August 2020",
+        "technologies": "Grease, wrenches and hammers.",
+        "role": "Assembled a wide range of bicycles from kids bikes with training wheels to +$5,000 road, mountain and electric bicycles.",
+        "benefits": "Provided human interaction and productive breaks from coding."
+    }
+]
