@@ -15,9 +15,4 @@
 
 ### 😄 Pronouns: He/Him/His
 
-<<<<<<< HEAD
 ### ⚡ Fun fact: In my free time I enjoy cycling, checkout my [Strava](https://www.strava.com/athletes/18590530) 🚴
->>>>>>> 2b74c2ffb6306a76cf0ec587be485f5e3abfc863
-=======
-### ⚡ Fun fact: Avid cyclist, checkout my [Strava](https://www.strava.com/athletes/18590530) 🚴
-
