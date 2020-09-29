@@ -5,7 +5,7 @@
 
 ### 🔭 I’m currently looking for employment after graduation in May 2021
 
-### 🌱 I’m currently studying Algorithms, Computer Security, Systems Software, Progamming Systems and Languages
+### 🌱 I’m currently learning about cryptography, functional programming in Standard ML, and C.
 
 ### 💻 I’m looking to collaborate on VS Code extensions for Standard ML
 
