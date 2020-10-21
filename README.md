@@ -5,11 +5,11 @@
 
 ### 🔭 I’m currently looking for employment after graduation in May 2021
 
-### 🌱 I’m currently learning about cryptography, functional programming in Standard ML, and C.
+### 🌱 I’m learning about network security, the pros and cons of functional programming via Standard ML, the Ford-Fulkerson algorithm and reverse engineering x86/64.
 
-### 💻 I’m looking to collaborate on VS Code extensions for Standard ML
+### 💻 I’m currently working for [Ignite Bot](https://www.ignitebot.io)
 
-### 💬 Ask me about what I've working on this past summer.
+### 💬 Ask me about what I worked on this past summer.
 
 ### 📫 How to reach me: frazierj@wustl.edu
 
