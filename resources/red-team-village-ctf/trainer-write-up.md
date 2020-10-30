@@ -75,8 +75,53 @@ cat `find ./ -name level7_password`
 * Password: `RG8geW91IGV2ZW4gbGlmdCBicm8g`
 
 # Level 7
+* Navigate to the home directory `cd ~/../`
+* Switch to the level7 user `su level7` password `RG8geW91IGV2ZW4gbGlmdCBicm8g`
+* Move to the user's home directory with `cd level7`
+* View the welcome message with `cat welcome_message`
+* We are told the password is in one of the files in the `password_directory`, shocking
+* Since there are only 100 password files, we can just print out the contents of all of them to a file then find the one that looks like a password using the command below
+```
+cat `find ./password_directory *`
+```
+* Password: `bGV0J3MgZmluZCBzb21ldGhpbmcg`
 
+# Level 8
+* Navigate to the home directory `cd ~/../`
+* Switch to the level8 user `su level8` password `bGV0J3MgZmluZCBzb21ldGhpbmcg`
+* Move to the user's home directory with `cd level8`
+* View the welcome message to find that the file is an execuatble somewhere in the directory. 
+* We first find the file with 
+```
+find ./ -name level9_password
+```
+* We can then run the executable to get the password
+```
+./dir24/subdir13/level9_password
+```
+* Password: `96ab15e954f1267ea04c35de2d771c2b`
 
+# Level 9
+* Navigate to the home directory `cd ~/../`
+* Switch to the level9 user `su level9` password `96ab15e954f1267ea04c35de2d771c2b`
+* Move to the user's home directory with `cd level9`
+* View the welcome message to find out that the password is the line number of the string evilhacker in the file `/usr/share/wordlists/rockyou.txt` 
+* We can find this using the grep command, supplying a word to search for, namely `evilhacker`, use the `-n` option to display the line where a match is found, and supply a path to the file to search
+```
+grep -w 'evilhacker' -n /usr/share/wordlists/rockyou.txt 
+```
+* Password: `955830`
+
+# Level 10
+* Navigate to the home directory `cd ~/../`
+* Switch to the level10 user `su level10` password `955830`
+* Move to the user's home directory with `cd level10`
+* View the welcome message to find out that the password for the next level is the number of times the ip address `112.85.42.94` has been banned.
+* After looking at the logs, I found out that everytime an ip address is banned, it follows the format of `Ban ip`. To count the number of times `112.85.42.94` was banned we can use the grep command to search the file for lines that include `Ban 112.85.42.94` and use the `-c` option to get the total number of lines matched.
+```
+grep -w 'Ban 112.85.42.94' -c fail2ban.log
+```
+* Password: `192`
 
 
 
