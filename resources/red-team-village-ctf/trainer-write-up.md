@@ -123,5 +123,16 @@ grep -w 'Ban 112.85.42.94' -c fail2ban.log
 ```
 * Password: `192`
 
+# Level 11
+* Navigate to the home directory `cd ~/../`
+* Switch to the level11 user `su level11` password `192`
+* Move to the user's home directory with `cd level11`
+* View the welcome message to find out we are searching for a valid md5hash in the file `md5find`. 
+* A vaild md5hash is 32 digit hexidecimal number so we can create a regular expression that matches this criteria then use grep to match any lines in the file that are valid md5hashes
+```
+grep -e "[0-9a-f]\{32\}" md5find
+```
+* Password: `0982e2a869857644074d06b1a4fd1bea`
+
 
 
