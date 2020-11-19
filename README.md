@@ -5,11 +5,9 @@
 
 ### 🔭 I’m currently looking for employment after graduation in May 2021
 
-### 🌱 I’m learning about network security, the pros and cons of functional programming via Standard ML, the Ford-Fulkerson algorithm and reverse engineering x86/64.
+### 🌱 I’m learning about approximation algorithms, compiler optimization, interpreters, and systems security.
 
 ### 💻 I’m currently working for [Ignite Bot](https://www.ignitebot.io)
-
-### 💬 Ask me about what I worked on this past summer.
 
 ### 📫 How to reach me: frazierj@wustl.edu
 
