@@ -14,3 +14,6 @@
 ### 😄 Pronouns: He/Him/His
 
 ### ⚡ Fun fact: In my free time I enjoy running and cycling, checkout my [Strava](https://www.strava.com/athletes/18590530) 🚴
+
+### ⛓ Interesting Links:
+[Brief Incomplete and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
