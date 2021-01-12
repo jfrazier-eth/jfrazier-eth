@@ -5,9 +5,11 @@
 
 ### 🔭 I’m currently looking for employment after graduation in May 2021
 
-### 💻 I’m currently working for [Ignite Bot](https://www.ignitebot.io)
+### 📚 Reading the The Cuckoo's Egg and Bobby Fischer Teaches Chess
 
-### 📫 How to reach me: frazierj@wustl.edu
+### 💻 Working for [Ignite Bot](https://www.ignitebot.io)
+
+### 📫 Reach me at frazierj@wustl.edu
 
 ### 😄 Pronouns: He/Him/His
 
