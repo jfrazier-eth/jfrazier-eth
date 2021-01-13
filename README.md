@@ -7,7 +7,7 @@
 
 ### 📚 Reading the The Cuckoo's Egg and Bobby Fischer Teaches Chess
 
-### 💻 Working for [Ignite Bot](https://www.ignitebot.io)
+<!--### 💻 Working for [Ignite Bot](https://www.ignitebot.io) -->
 
 ### 📫 Reach me at frazierj@wustl.edu
 
