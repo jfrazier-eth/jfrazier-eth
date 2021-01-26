@@ -7,9 +7,7 @@
 
 ### 📚 Reading the The Cuckoo's Egg and Bobby Fischer Teaches Chess
 
-### 💻 Current Courses: Introduction to AI, Systems Security, Reverse Engineering and Malware Analysis, Technical Writing, Operating Systems Organization
-
-### Current TA for: Introduction to Computer Security
+### 💻 Current Courses: Introduction to AI, Systems Security, Reverse Engineering and Malware Analysis, Technical Writing, TA for Introduction to Computer Security
 
 <!--### 💻 Working for [Ignite Bot](https://www.ignitebot.io) -->
 
