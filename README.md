@@ -5,7 +5,7 @@
 
 ### 🔭 I’m currently looking for employment after graduation in May 2021
 
-### 📚 Reading the The Cuckoo's Egg and Bobby Fischer Teaches Chess
+### 📚 Reading the The Cuckoo's Egg
 
 ### 💻 Current Courses: Introduction to AI, Systems Security, Reverse Engineering and Malware Analysis, Technical Writing, TA for Introduction to Computer Security
 
@@ -17,3 +17,4 @@
 
 ### ⛓ Interesting Links:
 [Brief Incomplete and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
+[Kanopi](kanopi.io)
