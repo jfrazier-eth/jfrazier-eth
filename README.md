@@ -5,7 +5,7 @@
 
 ### 🔭 I’m currently looking for employment after graduation in May 2021
 
-### 📚 Reading the The Cuckoo's Egg
+### 📚 Reading Formal Languages and their Relation to Automata
 
 ### 💻 Current Courses: Introduction to AI, Systems Security, Reverse Engineering and Malware Analysis, Technical Writing, TA for Introduction to Computer Security
 
