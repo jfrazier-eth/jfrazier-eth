@@ -1,7 +1,7 @@
 
 ## Welcome to my github 👋 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=frazierjoe&count_private=true&show_icons=false&theme=vue&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazierjoe&layout=compact)
+![My github stats](https://github-readme-stats.vercel.app/api?username=jfrazier-eth&count_private=true&show_icons=false&theme=vue&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfrazier-eth&layout=compact)
 
 ### 🔭 I’m currently looking for employment (Full Stack/Backend Web3 development)
 
