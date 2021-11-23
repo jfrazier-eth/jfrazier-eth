@@ -5,7 +5,7 @@
 
 ### 🔭 I’m currently looking for employment (Full Stack/Backend Web3 development)
 
-### 📚 Reading: The Code Breakers
+### 📚 Reading: The Code Book
 
 ### 📫 Reach me at jfrazer153@outlook.com
 
@@ -13,3 +13,4 @@
 
 ### ⛓ Interesting Links:
 [Brief Incomplete and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
+[The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html)
