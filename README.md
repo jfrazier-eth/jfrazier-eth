@@ -3,7 +3,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jfrazier-eth&count_private=true&show_icons=false&theme=vue&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfrazier-eth&layout=compact)
 
-<!-- ### 🔭 I’m currently looking for employment (Full Stack/Backend Web3 development) -->
+### 🔨 Building: [infinity.xyz](infinity.xyz)
 
 ### 📚 Reading: The Code Book
 
