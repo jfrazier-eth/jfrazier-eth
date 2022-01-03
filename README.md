@@ -5,7 +5,7 @@
 
 ### 🔨 Building: [infinity.xyz](infinity.xyz)
 
-### 📚 Reading: The Code Book
+//### 📚 Reading: The Code Book
 
 ### 📫 Reach me at jfrazer153@outlook.com
 
