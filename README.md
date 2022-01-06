@@ -5,8 +5,6 @@
 
 ### 🔨 Building: [infinity.xyz](infinity.xyz)
 
-//### 📚 Reading: The Code Book
-
 ### 📫 Reach me at jfrazer153@outlook.com
 
 ### 😄 Pronouns: He/Him/His
