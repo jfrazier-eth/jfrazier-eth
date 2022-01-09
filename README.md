@@ -3,7 +3,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jfrazier-eth&count_private=true&show_icons=false&theme=vue&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfrazier-eth&layout=compact)
 
-### 🔨 Building: [infinity.xyz](infinity.xyz)
+### 🔨 Building: [infinity.xyz](https://infinity.xyz)
 
 ### 📫 Reach me at jfrazer153@outlook.com
 
