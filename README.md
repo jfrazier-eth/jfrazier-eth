@@ -5,10 +5,6 @@
 
 ### 🔨 Building: [infinity.xyz](https://infinity.xyz)
 
-### 📫 Reach me at jfrazer153@outlook.com
+### 📫 Reach me at jfrazer.eth@gmail.com
 
 ### 😄 Pronouns: He/Him/His
-
-### ⛓ Interesting Links:
-* [Brief Incomplete and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
-* [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html)
