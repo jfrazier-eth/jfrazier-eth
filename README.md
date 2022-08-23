@@ -7,3 +7,5 @@
 ### 📫 Reach me at jfrazer.eth@gmail.com
 
 ### 😄 Pronouns: He/Him/They/Them
+
+### 📚 Reading: The Three-Body Problem - Liu Cixin
