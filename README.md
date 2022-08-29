@@ -8,4 +8,4 @@
 
 ### 😄 Pronouns: He/Him/They/Them
 
-### 📚 Reading: The Three-Body Problem - Liu Cixin | The Rust Programming Language
+### 📚 Reading: The Dark Forest - Liu Cixin | The Rust Programming Language
