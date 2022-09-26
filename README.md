@@ -7,5 +7,3 @@
 ### 📫 Reach me on discord @joe#1193
 
 ### 😄 Pronouns: He/Him/They/Them
-
-### 📚 Reading: The Dark Forest - Liu Cixin | The Rust Programming Language
